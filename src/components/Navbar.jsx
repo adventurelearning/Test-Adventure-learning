@@ -9,10 +9,8 @@ const Navbar = () => {
           <a target='_blank' href="https://www.adventurelearning.co.in/" className="hover:text-blue-200">Home</a>
           <a target='_blank' href="https://www.adventurelearning.co.in/" className="hover:text-blue-200">About</a>
           <a target='_blank' href="https://www.adventurelearning.co.in/" className="hover:text-blue-200">Courses</a>
-          <a href="#blog" className="hover:text-blue-200">Blog</a>
-          <button className="bg-white text-blue-800 px-4 py-2 rounded-md hover:bg-blue-100 transition">
-            Sign Up
-          </button>
+          <a target='_blank' href="https://www.adventurelearning.co.in/" className="hover:text-blue-200">Blog</a>
+       
         </div>
       </div>
     </nav>
